@@ -1,16 +1,23 @@
-## Hi there 👋
+👨‍💻 Sobre mí
 
-<!--
-**abomdevp/abomdevp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador apasionado por la tecnología, el diseño web y las soluciones creativas.
 
-Here are some ideas to get you started:
+Actualmente trabajando en proyectos de desarrollo web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Enfocado en crear interfaces limpias, accesibles y de alto rendimiento.
+
+Mis tecnologías favoritas
+
+Frontend:
+JavaScript • Vue.js • React • Bootstrap
+
+Herramientas:
+Git • GitHub • Figma
+
+🌐 Encuéntrame en
+
+LinkedIn: https://www.linkedin.com/in/abomdevp
+
+Gracias por visitar mi perfil
+
+Siempre abierto a colaborar o ayudar en proyectos ✨
