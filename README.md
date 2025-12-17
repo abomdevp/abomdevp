@@ -9,7 +9,7 @@ Enfocado en crear interfaces limpias, accesibles y de alto rendimiento.
 Mis tecnologías favoritas
 
 Frontend:
-JavaScript • Vue.js • React • Bootstrap
+JavaScript • Vue.js • Bootstrap
 
 Herramientas:
 Git • GitHub • Figma
